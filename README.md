@@ -5,7 +5,7 @@
         <tr>
             <td align="center">
                 <h3>Diary App Drawer Design(1)</h3>
-                <img src="https://github.com/user-attachments/assets/f82e3979-9481-41b9-b777-c5c51f477900" width="250" height="auto">
+                <img src="https://github.com/user-attachments/assets/edcba93f-71ef-476c-9c9e-293e60da04c8" width="250" height="auto">
             </td>
             <td align="center">
                 <h3>Food Hub Drawer Design(2)</h3>
